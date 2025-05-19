@@ -70,12 +70,10 @@
 
 ---
 
-
-
 ### 📫 Reach Me At
 
 - 📧 Email: **rishitha.m2022cse@sece.ac.in**
 - 💼 LinkedIn: [linkedin.com/in/rishitha-m](https://www.linkedin.com/in/rishitha-m/)
+- 📄 **[My Resume](https://drive.google.com/drive/folders/1DBY67iSpH8cbWH9Ap698D4i4Fip2FSXG)**
 
-> 👀 I'm actively seeking full-time roles as a Full Stack Developer. Let’s build the future together!
-
+> 👀 I'm actively seeking full-time roles as a **Full Stack Developer**. Let’s build the future together!
