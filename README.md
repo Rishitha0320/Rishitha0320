@@ -8,7 +8,7 @@
 <p align="center">
   💡 Problem Solver | 🎨 UI/UX Explorer | 🧠 Lifelong Learner
 </p>
-Check out the live deployed project here:  
+Check out the live deployed project here: (may take time in loading , logout and enter the app) 
 👉 [https://e-commerce-frontend-six-ruby.vercel.app/](https://e-commerce-frontend-six-ruby.vercel.app/)
 ---
 
