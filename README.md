@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishitha M</h1>
-<h3 align="center">🚀 A passionate Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 A passionate Full Stack Web Developer | MERN Stack Enthusiast |Data Analyst |passionate about working with data</h3>
 
 <p align="center">
   💡 Problem Solver | 🎨 UI/UX Explorer | 🧠 Lifelong Learner
